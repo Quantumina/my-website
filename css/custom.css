@@ -38,14 +38,14 @@ body{
 
 .image2 {
   position: absolute;
-  margin-left: -100px;
+  margin-left: -9%;
   margin-top: 21.3%;
 }
 
 .image3 {
   position: absolute;
-  margin-left: 500px;
-  margin-top: 200px;
+  margin-left: 40%;
+  margin-top: 18%;
 }
 
 .bg-color{
@@ -74,7 +74,7 @@ body{
   font-size: 1.7rem;
   align-items: center;
   height: 100%;
-  margin-left: -50px;
+  margin-left: -5%;
   margin-top: 0%;
 }
 .nav-link{
@@ -90,9 +90,9 @@ background: #8c52ff;
  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
 }
 .navbar-brand-text {
-  margin-left: 10px;
+  margin-left: 10%;
   color: #ffffff; /* Change to your desired color */
-  line-height: 50px;
+  line-height: 20%;
 }
 
 
@@ -113,7 +113,7 @@ background: #8c52ff;
 
 #name{
   margin-top: 12rem;
-  margin-right: 317px;
+  margin-right: 28.5%;
   font-size: 4rem;
   color:  #dd0989;
   font-weight: bold;
@@ -133,7 +133,7 @@ background: #8c52ff;
   color: #fff;
   text-align: left;
   right: 0;
-  margin-left: 500px;
+  margin-left: 45%;
 }
 
 .home-text{
@@ -145,7 +145,7 @@ background: #8c52ff;
 }
 #me{
   margin-top: 18rem;
-  margin-right: 500px; /*465*/
+  margin-right: 44%; /*465*/
   font-size: 2rem;
   color: #8c52ff;
   font-weight:100;
@@ -155,7 +155,7 @@ background: #8c52ff;
 #learn-more{
   padding: .4rem 1rem;
   max-width: 10rem;
-  margin-left: 666px;
+  margin-left: 57%;
   color: #8c52ff;
   display: block;
   border: 2px solid #8c52ff;
